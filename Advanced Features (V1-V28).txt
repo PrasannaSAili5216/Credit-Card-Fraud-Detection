@@ -1,0 +1,6 @@
+In the context of credit card fraud detection datasets, "V" in "Advanced Features (V1-V28)" refers to anonymized features that have been
+  transformed using Principal Component Analysis (PCA).
+
+  These features are typically the result of a dimensionality reduction technique applied to the original, sensitive transaction data (e.g.,
+  transaction amount, time, location, etc.). This anonymization is done to protect the privacy of cardholders and financial institutions, as
+  the raw features are not directly exposed.
