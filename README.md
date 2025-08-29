@@ -1,3 +1,6 @@
+<img width="981" height="858" alt="Home Page" src="https://github.com/user-attachments/assets/483cf8ab-69c2-4b64-b3c3-0c2f29e22e19" />
+
+
 # Credit Card Fraud Detection
 
 This project is a machine learning application that detects fraudulent credit card transactions. It includes a Flask web application for real-time predictions and scripts for training and evaluating the model.
